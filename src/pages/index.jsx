@@ -9,7 +9,7 @@ import {
   LinkProjects,
   Logo,
   Img,
-} from "../../styles/indexStyle";
+} from "../../styles/indexStyle.jsx";
 import Link from "next/link";
 
 export default function Home() {

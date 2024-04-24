@@ -9,7 +9,7 @@ import {
   CloseSidebar,
   ContentTitle,
   SubTitle,
-} from "./style";
+} from "./style.jsx";
 import { FaBars, FaTimes } from "react-icons/fa";
 import Link from "next/link";
 import { useRouter } from "next/router";
